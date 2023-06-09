@@ -409,7 +409,7 @@ margin-top: -105px;
 }
 /* feedback */
 .feedback{
-  width: 100vw;
+  width: 100%;
   background-color:lightblue;
   height: 685px;
   display: flex;
